@@ -9,3 +9,6 @@ This project is a no-code automation that uses a multi-step workflow to categori
 3. The scenario uses the OpenRouter API and an AI model to categorize the request into "Sales Inquiry", "Technical Support", or "Billing Question".
 4. The Google Sheet is updated with the AI's category.
 5. A Router then sends an email notification to the correct department based on the category.
+   
+## Demo Watch a live demonstration of the automation in action:
+https://www.loom.com/share/3412a4f83aa4498484879f3d566ecfce
